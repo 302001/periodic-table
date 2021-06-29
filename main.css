@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    margin: 3px;
+    top: 40%;
+    cursor: pointer;
+    
+
+}
+    
+
+body
+{
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    flex-direction: row;
+    
+    background-color: black;
+    padding: 10px;
+    font-size: 10px;
+    
+
+}
+justify-content-end{justify-content:flex-end!important}
+
+
+
+.periodic-element-inner
+{
+color: lightblue;
+border: solid 2px lightblue;
+
+
+}
+.col-1,.col-2
+{
+    display: inline-block;
+   
+
+}
+.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12,.col-13,.col-14,.col-15,.col-16,.col-17,.col-18
+{
+    display: inline-block;
+    
+}
+.periodic-element-inner-1{
+    color: lightgreen;
+    border: solid 2px lightgreen;
+}
+.periodic-element-inner-0{
+    color: yellow;
+    border: solid 2px yellow ;
+}
+.periodic-element-inner-2{
+    color:hotpink;
+    border: solid 2px hotpink ;
+}
+.periodic-element-inner-3{
+    color:lightsalmon;
+    border: solid 2px lightsalmon ;
+}
+
+.periodic-element-inner-4{
+    color:lightseagreen;
+    border: solid 2px lightseagreen ;
+}
+.periodic-element-inner-5{
+    color:lightyellow;
+    border: solid 2px lightyellow ;
+}
+
+.periodic-element-inner-6{
+    color:lightpink;
+    border: solid 2px lightpink ;
+}
+.periodic-element-inner-7{
+    color:lightcoral;
+    border: solid 2px lightcoral ;
+}
+.periodic-element-inner-8{
+    color:lightcyan;
+    border: solid 2px lightcyan ;
+}
+.periodic-element-inner-1:hover{
+margin: 4px;
+box-shadow: 2px 2px lightgoldenrodyellow;
+}
+
+.periodic-element-inner-2:hover{
+margin: 4px;
+box-shadow: 2px 2px lightgoldenrodyellow;
+}
+.periodic-element-inner:hover{
+    margin: 4px;
+    box-shadow: 2px 2px lightgoldenrodyellow;
+    }
+.periodic-element-inner-3:hover{
+        margin: 4px;
+        box-shadow: 2px 2px lightgoldenrodyellow;
+        }
+            
+        .periodic-element-inner-4:hover{
+            margin: 4px;
+            box-shadow: 2px 2px lightgoldenrodyellow;
+            }
+            .periodic-element-inner-5:hover{
+                margin: 4px;
+                box-shadow: 2px 2px lightgoldenrodyellow;
+                }
+                .periodic-element-inner:hover{
+                    margin: 4px;
+                    box-shadow: 2px 2px lightgoldenrodyellow;
+                    }
+
+                    .periodic-element-inner-6:hover{
+                        margin: 4px;
+                        box-shadow: 2px 2px lightgoldenrodyellow;
+                        }
+
+                        .periodic-element-inner-7:hover{
+                            margin: 4px;
+                            box-shadow: 2px 2px lightgoldenrodyellow;
+                            }
+                            
+                            .periodic-element-inner-8:hover{
+                                margin: 4px;
+                                box-shadow: 2px 2px lightgoldenrodyellow;
+                                }
+                                
